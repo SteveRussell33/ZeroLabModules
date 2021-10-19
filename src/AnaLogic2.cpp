@@ -1,5 +1,7 @@
 #include "plugin.hpp"
 #include "lib/Components.hpp"
+#include <functional>
+
 /*
  * This is a "signal combiner" that is based off of the idea
  * of boolean logic as it would work with digital signals. It 
